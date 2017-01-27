@@ -9,13 +9,17 @@ body {
     padding-bottom: 20px;
 }
 
+.p-bio-text{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 22px;
+}
+
 .h1-title{
   color: #c67025;
   font-size: 110px;
   font-weight: bold;
   font-family: 'Open Sans Condensed', sans-serif;
-
-    line-height: 250px;
+  line-height: 200px;
 
 }
 
@@ -26,10 +30,10 @@ body {
 }
 
 .section-home-title{
-
-      text-align: center;
-      vertical-align: middle;
-  height: 400px;
+  /*background-image: url("ex.png");*/
+  text-align: center;
+  vertical-align: middle;
+  height: 350px;
   position:relative;
   background: #000000;
 }
