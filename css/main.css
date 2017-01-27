@@ -1,0 +1,67 @@
+/* Global Styles */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.h1-title{
+  color: #c67025;
+  font-size: 110px;
+  font-weight: bold;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+    line-height: 250px;
+
+}
+
+/* Page Sections */
+.section,
+.section-colored {
+    padding: 50px 0;
+}
+
+.section-home-title{
+
+      text-align: center;
+      vertical-align: middle;
+  height: 400px;
+  position:relative;
+  background: #000000;
+}
+
+
+.sidebar {
+    margin-top: 40px;
+}
+
+.sidebar ul {
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #cccccc;
+}
+
+/* Service Page Styles */
+.service-icon {
+    font-size: 50px;
+}
+
+/* 404 Page Styles */
+.error-404 {
+    font-size: 8em;
+}
+
+
+/* Footer Styles */
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+@media (max-width: 767px) {
+
+}
